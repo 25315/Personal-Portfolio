@@ -65,6 +65,9 @@ transition: 0.3s;
 .navbar a:hover,.navbar a.active{
     color: var(--main-color);
 }
+header a:hover{
+    color: var(--main-color);
+}
 #menu-icon {
     font-size: 3.6rem;
     color: var(--text-color);
